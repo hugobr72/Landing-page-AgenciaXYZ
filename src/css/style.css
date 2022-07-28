@@ -112,13 +112,13 @@ body {
 .about p {
     font-size: 1.8rem;
     margin: 30px 0;
-    font-weight: 400;
+    font-weight: 500;
 }
 
 .about a {
     font-size: 1.6rem;
     align-self: flex-start;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 .about a:hover {
